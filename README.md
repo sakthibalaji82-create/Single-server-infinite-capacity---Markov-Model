@@ -50,5 +50,19 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 ```
 ## Output :
+```
 Enter the mean inter arrival time of objects from feeder (in secs) : 12
 Enter the mean inter service time of the Lathe Machine (in secs) : 1
+Enter the time taken by the Robot (in secs) : 5
+Value of Lambda λ : 0.083
+Value of Mu μ : 1.000
+Average number of objects in the system : 0.09 
+Average number of objects in the conveyor :  0.01 
+Average waiting time of an object in the system : 1.09 secs
+Average waiting time of an object in the conveyor : 0.09 secs
+Probability that the system is busy : 0.08 
+Probability that the system is empty : 0.92 
+```
+## Result :
+Thsu the python program is implemented and executed successfully
+
