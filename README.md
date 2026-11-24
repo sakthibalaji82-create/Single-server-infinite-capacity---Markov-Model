@@ -50,6 +50,5 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 ```
 ## Output :
-```
 Enter the mean inter arrival time of objects from feeder (in secs) : 12
 Enter the mean inter service time of the Lathe Machine (in secs) : 1
